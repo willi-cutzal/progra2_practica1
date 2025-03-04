@@ -2,7 +2,7 @@
 <img src="img/cintillo.png"
     style="width:100%"></img>
 
-# progra2_practica1
+# Práctica 1 - Programación 2
 
 práctica 1: Ingeniería de Software Aplicada a Ciencia de Datos
 ---
